@@ -120,8 +120,8 @@ baseurl: /WeichaoLi.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 我的笔记
+description: 在路上
 theme: kunka
 disqusname: WeichaoLi
 
