@@ -114,7 +114,7 @@ customLinks:
 #################################### global configure #######################################
 
 username: WeichaoLi
-baseurl: /notes.zls.com
+baseurl: /zls
 markdown: redcarpet
 safe: false
 highlighter: pygments
