@@ -2,5 +2,8 @@
 layout: default
 title: ZLS'S NOTES
 ---
-
-### 标题
+{% if site.theme == 'kunka' %}
+	{% include {{site.theme}}_index.html %}
+{% else %}
+	{% include default_index.html %}
+{% endif %}
